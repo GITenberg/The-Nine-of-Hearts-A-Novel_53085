@@ -1,0 +1,30 @@
+_repo: The-Nine-of-Hearts-A-Novel_53085
+_version: 0.0.1
+alternative_title: 'The 9 of Hearts: A Novel'
+creator:
+  author:
+    agent_name: Farjeon, B. L. (Benjamin Leopold)
+    alias: Farjeon, Benjamin Leopold
+    birthdate: 1833
+    deathdate: 1903
+    gutenberg_agent_id: '41959'
+    url: http://www.gutenberg.org/2009/agents/41959
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
+description: ''
+gutenberg_issued: '2016-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Nine of Hearts: A Novel'
+url: http://www.gutenberg.org/ebooks/53085
